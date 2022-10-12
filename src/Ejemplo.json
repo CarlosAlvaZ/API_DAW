@@ -1,0 +1,26 @@
+[
+    {
+        "ID": "0",
+        "Nombre": "The Legend of Zelda: Ocarina of Time",
+        "Plataforma": "Nintendo 64",
+        "Desarrolladora": "Nintendo",
+        "Lanzado": "1998",
+        "Estilo": "Aventura"
+    },
+    {
+        "ID": "1",
+        "Nombre": "Metal Gear Solid 3: Snake Eater",
+        "Plataforma": "Play Station 2",
+        "Desarrolladora": "Konami",
+        "Lanzado": "2004",
+        "Estilo": "Disparos en tercera persona"
+    },
+    {
+        "ID": "2",
+        "Nombre": "El Profesor Layton y el Futuro Perdido",
+        "Plataforma": "Nintendo DS",
+        "Desarrolladora": "LEVEL-5",
+        "Lanzado": "2008",
+        "Estilo": "Puzzles"
+    }
+]
