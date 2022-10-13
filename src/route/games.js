@@ -17,7 +17,7 @@ router.post('/', (req,res) =>{
         games.push(AgregarJuego);
         res.json(games);
     }else{
-        res.send("Falta uno o más datos a por enviar!");
+        res.send("Falta uno o más datos por enviar!");
     }
 });
 
@@ -47,7 +47,7 @@ router.put('/:ID', (req, res) =>{
         });
         res.json(games);
     }else{
-        res.send("Falta uno o más datos a por enviar!");
+        res.send("Falta uno o más datos por enviar!");
     }
 
 });
